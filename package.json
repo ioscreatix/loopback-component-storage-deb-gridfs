@@ -24,6 +24,7 @@
     "lodash": "^4.6.1",
     "mongodb": "^2.1.7",
     "stream-to-array": "^2.3.0",
+    "stream-to-buffer": "^0.1.0",
     "tar-stream": "^1.5.4",
     "zip-stream": "^1.0.0"
   }
