@@ -1,5 +1,5 @@
 {
-  "name": "loopback-component-storage-gridfs",
+  "name": "loopback-component-storage-deb-gridfs",
   "version": "1.0.4",
   "description": "loopback storage component",
   "main": "index.js",
