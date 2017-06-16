@@ -18,10 +18,12 @@
   "author": "Andrew Wiik (atwiiks@ioscreatix.com)",
   "license": "ISC",
   "dependencies": {
+    "ar": "0.0.1",
     "busboy": "^0.2.12",
     "gridfs-stream": "^1.1.1",
     "lodash": "^4.6.1",
     "mongodb": "^2.1.7",
+    "tar-stream": "^1.5.4",
     "zip-stream": "^1.0.0"
   }
 }
