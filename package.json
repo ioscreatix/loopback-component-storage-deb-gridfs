@@ -1,7 +1,7 @@
 {
   "name": "loopback-component-storage-deb-gridfs",
-  "version": "1.0.4",
-  "description": "loopback storage component",
+  "version": "1.0.0",
+  "description": "loopback deb file storage component",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Moritz Krause (moritz.krause@winice.de)",
+  "author": "Andrew Wiik (atwiiks@ioscreatix.com)",
   "license": "ISC",
   "dependencies": {
     "busboy": "^0.2.12",
