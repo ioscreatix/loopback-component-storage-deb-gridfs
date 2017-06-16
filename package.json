@@ -20,6 +20,7 @@
   "dependencies": {
     "ar": "0.0.1",
     "busboy": "^0.2.12",
+    "debian-control-parser": "^0.2.0",
     "gridfs-stream": "^1.1.1",
     "gunzip-maybe": "^1.4.0",
     "lodash": "^4.6.1",
